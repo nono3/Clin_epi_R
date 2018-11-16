@@ -1,4 +1,5 @@
 #sampleです
+#コメントしました。みちはた
 library(tidyverse)
 
 str(iris)
